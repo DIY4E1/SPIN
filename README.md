@@ -11,7 +11,7 @@ A 'scifiltr' is a self-publicizing label and a subroutine to perpetuate as digit
   <tr>
 <td>1</td>
 <td>MusicTypewriter – Instrumental Keying (clef) to any Text</td>
-<td>SPIN20.1-MT.2020.05.20-JTH.EN</td>
+<td>SPIN20.3-MT.2020.06.01-JTH.EN</td>
 <td><a href="https://github.com/scifiltr/SPIN/blob/master/SPIN20.3-MT.2020.06.01-JTH.EN.pdf">.pdf</a></td>
   <tr>  
 </table>
