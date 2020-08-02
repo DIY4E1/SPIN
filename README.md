@@ -13,5 +13,17 @@ A 'scifiltr' is a self-publicizing label and a subroutine to perpetuate as digit
 <td>MusicTypewriter – Instrumental Keying (clef) to any Text</td>
 <td>SPIN20.3-MT.2020.06.01-JTH.EN</td>
 <td><a href="https://github.com/scifiltr/SPIN/blob/master/SPIN20.3-MT.2020.06.01-JTH.EN.pdf">.pdf</a></td>
-  <tr>  
+  <tr>
+  <tr>
+<td>2</td>
+<td>MathDIY 1 – Tabular appendix and explanatory approaches documented precisely on 98 pages</td>
+<td>SPIN21.1.0-DIY.2020.08.02-JTH.EN</td>
+<td><a href="https://github.com/scifiltr/SPIN/blob/master/SPIN21.1.0-DIY.2020.08.02-JTH.EN.pdf">.pdf</a></td>
+  <tr>
+  <tr>
+<td>3</td>
+<td>MathDIY 2 – Graphic attachment and classification attempt documented briefly on 17 pages</td>
+<td>SPIN21.1.1-DIY.2020.08.02-JTH.EN</td>
+<td><a href="https://github.com/scifiltr/SPIN/blob/master/SPIN21.1.1-DIY.2020.08.02-JTH.EN.pdf">.pdf</a></td>
+  <tr>    
 </table>
