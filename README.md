@@ -10,26 +10,26 @@ A 'scifiltr' is a self-publicizing label and a subroutine to perpetuate as digit
   </tr>
   <tr>
 <td>1</td>
-<td>MusicTypewriter – Instrumental Keying (clef) to any Text<br>size: DIN A4, 6 pages</td>
-<td>SPIN20.4-MT.2020.12.08-JTH.EN</td>
+<td>MusicTypewriter – Instrumental Keying (clef) to any Text<br>[DIN A4, 6 pages]</td>
+<td>20.4-MT.2020.12.08-JTH.EN</td>
 <td><a href="https://github.com/scifiltr/SPIN/blob/master/SPIN20.4-MT.2020.12.08-JTH.EN.pdf">.pdf</a></td>
   <tr>
   <tr>
 <td>2</td>
-<td>MathDIY 1 – Tabular appendix and explanatory approaches documented precisely<br>size: DIN A4, 132 pages</td>
-<td>SPIN21.2.0-DIY.2021.01.09-JTH.EN</td>
+<td>MathDIY 1<br>Tabular appendix and explanatory approaches documented precisely<br>[DIN A4, 132 pages]</td>
+<td>21.2.0-DIY.2021.01.09-JTH.EN</td>
 <td><a href="https://github.com/scifiltr/SPIN/blob/master/SPIN21.2.0-DIY.2021.01.09-JTH.EN.pdf">.pdf</a></td>
   <tr>
   <tr>
 <td>3</td>
-<td>MathDIY 2 – Graphic attachment and classification attempt documented briefly<br>size: DIN A4, 26 pages</td>
-<td>SPIN21.2.1-DIY.2021.02.15-JTH.EN</td>
+<td>MathDIY 2<br>Graphic attachment and classification attempt documented briefly<br>[DIN A4, 26 pages]</td>
+<td>21.2.1-DIY.2021.02.15-JTH.EN</td>
 <td><a href="https://github.com/scifiltr/SPIN/blob/master/SPIN21.2.1-DIY.2021.02.15-JTH.EN.pdf">.pdf</a></td>
   <tr>
     <tr>
 <td>4</td>
-<td>MathDIY 3 – Adaptation of general liability and concrete application proposals<br>size: DIN A4, 183 pages</td>
-<td>SPIN21.1.2-DIY.2021.01.09-JTH.EN</td>
+<td>MathDIY 3<br>Adaptation of general liability and concrete application proposals<br>[DIN A4, 183 pages]</td>
+<td>21.1.2-DIY.2021.01.09-JTH.EN</td>
 <td><a href="https://github.com/scifiltr/SPIN/blob/master/SPIN21.1.2-DIY.2021.01.09-JTH.EN.pdf">.pdf</a></td>
   <tr>
 </table>
