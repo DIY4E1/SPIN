@@ -3,10 +3,10 @@ A 'scifiltr' is a self-publicizing label and a subroutine to perpetuate as digit
 <br>
 <table id="SPIN">
   <tr class="header">
-    <th style="width:5%">Number</th>
+    <th style="width:5%">Num</th>
     <th style="width:65%">Title</th>
     <th style="width:20">SPIN</th>
-    <th style="width:10%">Format</th>
+    <th style="width:10%">File</th>
   </tr>
   <tr>
 <td>1</td>
