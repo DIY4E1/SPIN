@@ -32,4 +32,10 @@ A 'scifiltr' is a self-publicizing label and a subroutine to perpetuate as digit
 <td>21.1.2-DIY.2021.01.09-JTH.EN</td>
 <td><a href="https://github.com/scifiltr/SPIN/blob/master/SPIN21.1.2-DIY.2021.01.09-JTH.EN.pdf">.pdf</a></td>
   <tr>
+    <tr>
+<td>5</td>
+<td>Keeping it SMOL<br>From a simple character set to a universal linguistic space<br>[DIN A4, 42 pages]</td>
+<td>15.2.-XL.2021.02.20-JTH.EN</td>
+<td><a href="https://github.com/scifiltr/SPIN/blob/master/SPIN15.2.-XL.2021.02.20-JTH.EN.pdf">.pdf</a></td>
+  <tr>
 </table>
