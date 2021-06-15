@@ -30,7 +30,7 @@ A 'scifiltr' is a self-publicizing label and a subroutine to perpetuate as digit
 <td>4</td>
 <td>MathDIY 3<br>Adaptation of general liability and concrete application proposals<br>[DIN A4, 183 pages]</td>
 <td>21.1.2-DIY.2021.01.09-JTH.EN</td>
-<td><a href="https://github.com/scifiltr/SPIN/blob/master/SPIN21.1.2-DIY.2021.01.09-JTH.EN.pdf">.pdf</a></td>
+<td><a href="https://github.com/scifiltr/SPIN/blob/master/DRAFT_SPIN21.1.2-DIY.2021.01.09-JTH.EN.pdf">.pdf</a></td>
   <tr>
     <tr>
 <td>5</td>
