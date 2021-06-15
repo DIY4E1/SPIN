@@ -38,4 +38,11 @@ A 'scifiltr' is a self-publicizing label and a subroutine to perpetuate as digit
 <td>15.2.-XL.2021.02.20-JTH.EN</td>
 <td><a href="https://github.com/scifiltr/SPIN/blob/master/SPIN15.2.-XL.2021.02.20-JTH.EN.pdf">.pdf</a></td>
   <tr>
+    <tr>
+<td>6</td>
+<td>The Origin of Species [DRAFT]<br>The Human Being in the Internet Age and Beyond Analysis
+<br>[eBook, ≥ 52 pages]</td>
+<td>22.1-BB.2020.10.19-JTH.EN</td>
+<td><a href="https://github.com/scifiltr/SPIN/blob/master/SPIN22.1-BB.2020.10.19-JTH.EN.epub">.epub</a></td>
+  <tr>
 </table>
