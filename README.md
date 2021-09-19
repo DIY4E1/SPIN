@@ -43,13 +43,16 @@ A 'scifiltr' is a self-publicizing label and a subroutine to perpetuate as digit
 <td>The Origin of Species [DRAFT]<br>The Human Being in the Internet Age and Beyond Analysis
 <br>[eBook, ≥ 52 pages]</td>
 <td>22.1-BB.2020.10.19-JTH.EN</td>
-<td><a href="https://github.com/scifiltr/SPIN/blob/master/SPIN22.1-BB.2020.10.19-JTH.EN.epub">.epub</a></td>
+<td><a href="https://github.com/scifiltr/SPIN/blob/master/SPIN22.1-BB.2020.10.19-JTH.EN.epub">.epub</a>
+      <a href="https://github.com/scifiltr/SPIN/blob/master/SPIN22.1-BB.2020.10.19-JTH.EN.pdf">.pdf</a></td>
   <tr>
     <tr>
 <td>7</td>–
-<td>The Playbook [DRAFT]<br>An extension of the gaming experiences through the multiplayer mode on a multilayer QuantumGrid
-<br>[eBook, ≥ 4 pages]</td>
+<td>The Quantum Leap & The Playbook [DRAFT]<br>A novel substitute for the gaming experience by using multi-player tokens and multi-layer grids
+<br>[eBook, 58 pages]</td>
 <td>23.1-4E.2021.07.21-JTH.EN</td>
-<td><a href="https://github.com/scifiltr/SPIN/blob/master/DRAFT_23.1-4E.2021.07.21-JTH.EN.epub">.epub</a></td>
+<td><a href="https://github.com/scifiltr/SPIN/blob/master/DRAFT_23.1-4E.2021.07.21-JTH.EN.epub">.epub</a>
+  <a href="https://github.com/scifiltr/SPIN/blob/master/DRAFT_23.1-4E.2021.07.21-JTH.EN.pdf">.pdf</a>
+      </td>
   <tr>
 </table>
