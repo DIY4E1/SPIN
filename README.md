@@ -46,7 +46,7 @@ A 'scifiltr' is a self-publicizing label and a subroutine to perpetuate as digit
   <tr>
     <tr>
 <td>7</td>–
-<td>The Quantum Leap & The Playbook [DRAFT]<br>A novel substitute for the gaming experience by using multi-player tokens and multi-layer grids
+<td>The Quantum Leap & The Playbook [DRAFT]<br>A novel substitute for the gaming experience <br>by using multi-player tokens and multi-layer grids
 <br>[eBook, 58 pages]</td>
 <td>23.1-4E.2021.07.21-JTH.EN</td>
 <td><a href="https://github.com/scifiltr/SPIN/blob/master/DRAFT_23.1-4E.2021.07.21-JTH.EN.pdf">.pdf</a>
