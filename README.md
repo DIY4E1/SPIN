@@ -3,8 +3,8 @@ A SPIN is a self-publicizing label and a subroutine to perpetuate as digital pre
 <table>
   <tr class="header">
     <th style="width:5%">Num</th>
-    <th style="width:85%">Title</th>
-    <th style="width:10%">QR-Code</th>
+    <th style="width:8%">Title</th>
+    <th style="width:15%">QR-Code</th>
   </tr>
   <tr>
 <td>1</td>
