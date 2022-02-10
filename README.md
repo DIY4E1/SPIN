@@ -3,45 +3,37 @@ A SPIN is a self-publicizing label and a subroutine to perpetuate as digital pre
 <table>
   <tr class="header">
     <th style="width:5%">Num</th>
-    <th style="width:65%">Title</th>
-    <th style="width:30%">SPIN</th>
+    <th style="width:95%">Title</th>
   </tr>
   <tr>
 <td>1</td>
-<td>MusicTypewriter – Instrumental Keying (clef) to any Text<br>[DIN A4, 6 pages]</td>
-<td>20.4-MT.2020.12.08-JTH.EN</td>
+<td>20.4-MT.2020.12.08-JTH.EN<br>MusicTypewriter – Instrumental Keying (clef) to any Text<br>[DIN A4, 6 pages]</td>
   <tr>
   <tr>
 <td>2</td>
-<td>MathDIY 1<br>Tabular appendix and explanatory approaches documented precisely<br>[DIN A4, 132 pages]</td>
-<td>21.2.0-DIY.2021.01.09-JTH.EN</td>
+<td>21.2.0-DIY.2021.01.09-JTH.EN<br>MathDIY 1 – Tabular appendix and explanatory approaches documented precisely<br>[DIN A4, 132 pages]</td>
   <tr>
   <tr>
 <td>3</td>
-<td>MathDIY 2<br>Graphic attachment and classification attempt documented briefly<br>[DIN A4, 26 pages]</td>
-<td>21.2.1-DIY.2021.02.15-JTH.EN</td>
+<td>21.2.1-DIY.2021.02.15-JTH.EN<br>MathDIY 2 – Graphic attachment and classification attempt documented briefly<br>[DIN A4, 26 pages]</td>
   <tr>
     <tr>
 <td>4</td>
-<td>MathDIY 3<br>Adaptation of general liability and concrete application proposals<br>[DIN A4, 183 pages]</td>
-<td>21.1.2-DIY.2021.01.09-JTH.EN</td>
+<td>21.1.2-DIY.2021.01.09-JTH.EN<br>MathDIY 3 – Adaptation of general liability and concrete application proposals<br>[DIN A4, 183 pages]</td>
   <tr>
     <tr>
 <td>5</td>
-<td>Keeping it SMOL<br>From a simple character set to a universal linguistic space<br>[DIN A4, 42 pages]</td>
-<td>15.2.-XL.2021.02.20-JTH.EN</td>
+<td>15.2.-XL.2021.02.20-JTH.EN<br>Keeping it SMOL<br>From a simple character set to a universal linguistic space<br>[DIN A4, 42 pages]</td>
   <tr>
     <tr>
 <td>6</td>–
-<td>The Origin of Species [DRAFT]<br>The Human Being in the Internet Age and Beyond Analysis
+<td>22.1-BB.2020.10.19-JTH.EN<br>The Origin of Species [DRAFT]<br>The Human Being in the Internet Age and Beyond Analysis
 <br>[eBook, ≥ 52 pages]</td>
-<td>22.1-BB.2020.10.19-JTH.EN</td>
   <tr>
     <tr>
 <td>7</td>–
-<td>The Quantum Leap & The Playbook [DRAFT]<br>A novel substitute for the gaming experience <br>by using multi-player tokens and multi-layer grids
+<td>23.1-4E.2021.07.21-JTH.EN<br>The Quantum Leap & The Playbook [DRAFT]<br>A novel substitute for the gaming experience <br>by using multi-player tokens and multi-layer grids
 <br>[eBook, 58 pages]</td>
-<td>23.1-4E.2021.07.21-JTH.EN</td>
       </td>
   <tr>
 </table>
