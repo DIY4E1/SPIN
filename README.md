@@ -49,7 +49,7 @@ A SPIN is a self-publicizing label and a subroutine to perpetuate as digital pre
 <hr>
 <p>© SPIN & epub Edition of Jens T. Hinrichs (Ed.)<br>
 All rights reserved and its protection non-negotiable.<br> 
-The work may be mentioned and copied, translated and shared with the Sciencefiltr PIN without written permission in reference to the title and subtitles, the edition and the names of the authors, but may not commercially distributed or lent.<>br
+The work may be mentioned and copied, translated and shared with the Scifiltr PIN without written permission in reference to the title and subtitles, the edition and the names of the authors, but may not commercially distributed or lent.<>br
 In doubt of risks and side effects: please, ask and contact the Editor in order to prove that you are an independent-minded and a responsible individual and not a Homo Android Erectus who is conditioned and programmed.</p>
 <h3>Other Diversification of Sources</h3>
 <hr>
