@@ -45,3 +45,15 @@ A SPIN is a self-publicizing label and a subroutine to perpetuate as digital pre
       </td>
   <tr>
 </table>
+<h3>Legal Notices</h3>
+<hr>
+<p>© SPIN & epub Edition of Jens T. Hinrichs (Ed.)<br>
+All rights reserved and its protection non-negotiable.<br> 
+The work may be mentioned and copied, translated and shared with the Sciencefiltr PIN without written permission in reference to the title and subtitles, the edition and the names of the authors, but may not commercially distributed or lent.<>br
+In doubt of risks and side effects: please, ask and contact the Editor in order to prove that you are an independent-minded and a responsible individual and not a Homo Android Erectus who is conditioned and programmed.</p>
+<h3>Other Diversification of Sources</h3>
+<hr>
+<p>The German National Library – Cataloging in Publication (CIP): 
+The German National Library in Frankfurt/Main recorded some books from the above list in the German National Bibliography. For detailed bibliografic data consult  <a href="http://dnb/ddb.de">http://dnd/ddb.de</a> on the Internet.<br>
+Some titels and its name of the books are reported as obligatory copyright in the Gottfried Wilhelm Leibniz Library, Niedersächsische Landesbibliothek, Hannover, Germany according to the terms of §§ 7 and 12 of the Lower Saxon Press law (Niedersächsisches Pressegesetz).<br> 
+Bibliografic Data could be researched at <a href="http://www.gwlb.de">http://wwww.gwlb.de</a> on the Internet.</p>
