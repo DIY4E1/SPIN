@@ -1,7 +1,6 @@
 # Scifiltr Publicizing Identification Number (SPIN)
 <p>A SPIN is a self-publicizing label and a subroutine to perpetuate as digital presences to proceed and provide a topic, spin-off and extract another subject. While a mind or thought can be used individually by an author, they are frequently strung or bound together to form and continue a workflow thus to establish editorial work as standard. The word 'scifiltr' is made up of 'science‘ and the Latin origin 'filtrum‘. The content is connatural to investigative and belletristic and contrary to moral and ethic or mainstream. Sometimes readers must read interline to seek after hidden truth. Each .epub or .pdf and printable workflow will be released and upgraded with a Scifiltr Publicizing Identification Number (SPIN). Sometimes you need a password to open the files. The SPINs of the number ranges from 1 to 12 are reserved for regular and annual publications.</p>
-<p><img src="https://github.com/scifiltr/SPIN/blob/master/SPIN-topics-a.png" alt="SPIN list a" style="width:100%" "height:100%"></p>
-<p><img src="https://github.com/scifiltr/SPIN/blob/master/SPIN-topics-b.png" alt="SPIN list b" style="width:100%" "height:100%"></p>
+<p><img src="https://github.com/scifiltr/SPIN/blob/master/SPIN-topics.png" alt="SPIN list a" style="width:100%" "height:100%"></p>
 <h3>Legal Notices</h3>
 <hr>
 <p>© SPIN & epub Edition of Jens T. Hinrichs (Ed.)<br>
